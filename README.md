@@ -1,3 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=fixees&style=flat-square&color=red" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=fixees&style=flat-square&color=blue" alt=""/>
 ### Hi there 👋
 
