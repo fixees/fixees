@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/112260686/218164323-b1c11722-fb89-4f7a-8185-22ef160ddfa2.gif" alt="/" />
+  <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" alt="/" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="/" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="/" />
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="/" />
-  
-  
 </p>
 
 <p align="center">
