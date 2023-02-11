@@ -17,5 +17,6 @@
   
   <p align="left">
     <a href="https://github.com/fixees/vk-rcon-minecraft"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fixees&repo=vk-rcon-minecraft&theme=react&bg_color=1F222E&title_color=6EE2F5&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-vk-rcon-minecraft"></a>
+    <a href="https://github.com/fixees/module-text-to-symbol"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fixees&repo=module-text-to-symbol&theme=react&bg_color=1F222E&title_color=6EE2F5&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-vk-rcon-minecraft"></a>
   </p>
 </details>
