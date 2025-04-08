@@ -13,7 +13,7 @@
 </p>
 
 <details open> 
-  <summary><h2>📘 Мои опенсурс проекты</h2></summary>
+  <summary><h2>📘 My Open-Source Projects</h2></summary>
   
   <p align="left">
     <a href="https://github.com/fixees/vk-rcon-minecraft"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fixees&repo=vk-rcon-minecraft&theme=react&bg_color=1F222E&title_color=6EE2F5&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-vk-rcon-minecraft"></a>
